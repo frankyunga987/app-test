@@ -1,0 +1,51 @@
+.login-page{
+    --ion-background-color:#FDE387;
+}
+
+.login-img-container{
+    margin: 0 auto;
+    /* width: 50px; */
+    height: 60vh;
+}
+
+.login-img{
+    top:200px;
+    margin: auto ;
+    width: 75vw;
+    height: 85vh;
+}
+
+.login-button-container{
+    margin: 0 auto;
+    width: 78vw;
+    height: 4vh;
+}
+
+.login-button{
+    position: relative;
+    color: black;
+    --background: #fef9f9;
+    width: 78vw;
+    height: 4vh;
+}
+
+.fb-icon{
+    position: absolute;
+    color: rgb(55, 55, 233);
+    font-size: 20px;
+    left: 2%;
+
+}
+
+.call-icon{
+    position: absolute;
+    font-size: 20px;
+    left: 2%;
+}
+
+.login-hr{
+    position: relative;
+    top: 60px;
+    width: 80%;
+    border-bottom: 2px solid black ;
+}

@@ -1,0 +1,59 @@
+.register-page {
+    --ion-background-color: white;
+}
+
+.back-button {
+    background-color: white;
+    position        : relative;
+    top             : 64px;
+    left            : 10px;
+    width           : 50px;
+}
+
+.arrow-icon {
+    color    : black;
+    font-size: 30px;
+}
+
+.content {
+    position   : relative;
+    top        : 124px;
+    width      : 300px;
+    margin     : 0 auto;
+    align-items: center;
+    text-align : center;
+}
+
+.phone-input {
+    background-color: white;
+    color           : black;
+    outline         : 0;
+    border-width    : 0 0 2px;
+    border-color    : black;
+    width           : 210px;
+    font-size       : 35px;
+    line-height     : 54px;
+}
+
+.verify-button {
+    background-color: #C4C4C4;
+    border-radius   : 10px;
+    color           : black;
+    position        : relative;
+    top             : 65px;
+    width           : 237px;
+    height          : 46px;
+    font-size       : 30px;
+}
+
+.verify-input {
+    position        : relative;
+    background-color: white;
+    border-color    : black;
+    color           : black;
+    top             : 128px;
+    box-sizing      : border-box;
+    border-radius   : 10px;
+    width           : 246px;
+    height          : 36px;
+}

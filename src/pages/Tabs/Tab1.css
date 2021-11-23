@@ -1,0 +1,28 @@
+.home-page {
+    --ion-background-color: white;
+}
+
+.home {
+    color     : black;
+    text-align: center;
+}
+
+.home-title {
+    position : relative;
+    font-size: 20px;
+    top      : 143px;
+}
+
+.home-slides {
+    position: relative;
+    top     : 251px;
+}
+
+.home-slide {
+    flex-direction: column;
+}
+
+.home-slide-title{
+    height: 70px;
+    font-size: 30px;
+}
